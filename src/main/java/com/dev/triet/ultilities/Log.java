@@ -48,4 +48,6 @@ public class Log {
     public static void debug(Object object) {
         Log.debug(object);
     }
+
+    //ví dụ đây là 1 file đang được thay đổi
 }
